@@ -4,6 +4,6 @@ let rideLength = 199;
 function
 scuberGreetingForFeet(rideLength) {
   if rideLength < 400 {
-    scuberGreetingForFeet = ""
+    scuberGreetingForFeet = ""This one is on me!""
   }
 }
