@@ -7,4 +7,5 @@ scuberGreetingForFeet(rideLength) {
   if (rideLength < 400) {
     greeting = "This one is on me!";
   }
+  else if (rideLenth)
 }
