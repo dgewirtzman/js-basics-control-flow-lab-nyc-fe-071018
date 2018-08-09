@@ -8,3 +8,4 @@ function scuberGreetingForFeet(rideLength) {
   }
 }
 
+greeting
