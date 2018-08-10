@@ -10,5 +10,3 @@ function scuberGreetingForFeet() {
   }
 }
 
-scuberGreetingForFeet(rideLength);
-greeting;
