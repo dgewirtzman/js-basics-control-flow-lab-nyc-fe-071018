@@ -22,8 +22,8 @@ function switchOnCharmFromTip(someValue) {
     case 'generous':
     return 'Thank you so much.';
     break;
-    case 'generous':
-    return 'Thank you so much.';
+    case 'not as generous':
+    return 'Thank you.';
     break;
   }
 }
