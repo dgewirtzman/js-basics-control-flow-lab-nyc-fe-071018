@@ -6,7 +6,7 @@ function scuberGreetingForFeet() {
     greeting = 'This one is on me!';
   }
   else {
-    
+    greeting = 'help!';
   }
 }
 
